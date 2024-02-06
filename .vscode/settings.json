@@ -1,0 +1,7 @@
+{
+    "deno.enablePaths": [
+        "./backend"
+    ],
+    "deno.lint": true,
+    "deno.unstable": true
+}

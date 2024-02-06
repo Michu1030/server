@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "svelte.svelte-vscode",
+    "denoland.vscode-deno",
+    "rangav.vscode-thunder-client"
+  ]
+}
